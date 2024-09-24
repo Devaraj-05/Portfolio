@@ -9,7 +9,7 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Devaraj-05",
-  resume: "https://drive.google.com/file/d/1e4dH2y0dyvZhrA82qv4h8cPC1iwhbH7j/view?usp=drive_link",
+  resume: "https://drive.google.com/file/d/1A8fMgMdwLN0mj0a2NjKzB4ArDKN1PmO3/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/devaraj-padma-b3486b23b/",
   twitter: "https://x.com/_devaraj7_",
   insta: "https://www.instagram.com/_devaraj5_/",
