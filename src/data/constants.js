@@ -231,4 +231,22 @@ export const projects = [
     category: "web app",
     github: "https://github.com/Devaraj-05/Online-Auction-System",
   },
+  {
+    id: 3,
+    title: "Tic-Tac-Toe",
+    date: "May 2024",
+    description:
+      "Tic Tac Toe is a classic two-player strategy game where players take turns marking Xs and Os on a 3x3 grid, aiming to align three symbols in a row, column, or diagonal. The first to do so wins, if no one succeeds, it’s a draw.",
+    image:
+      "https://raw.githubusercontent.com/Devaraj-05/tic-tac-toe/refs/heads/main/src/Components/Assets/194306.png",
+    tags: [
+      "React.js",
+      "JavaScript",
+      "CSS",
+      "HTML",
+    ],
+    category: "web app",
+    github: "https://github.com/Devaraj-05/tic-tac-toe",
+    webapp: "https://tic-tac-toe-unicorn.netlify.app/", 
+  },
 ];
