@@ -204,6 +204,18 @@ export const projects = [
   },
   {
     id: 1,
+    title: "Weather App",
+    date: "Oct 2024",
+    description:"The Weather Application is a React-based web app that delivers real-time weather data for any location. Users can search for a city to view current conditions, including temperature, humidity, and wind speed. With a responsive design and powered by the OpenWeather API.",
+    image:"https://raw.githubusercontent.com/Devaraj-05/weather-app-react/refs/heads/main/src/assets/Weather%20Report.png",
+    tags:["React.js","JavaScript","HTML","CSS"],
+    category: "web app",
+    github: "https://github.com/Devaraj-05/weather-app-react",
+    webapp: "https://weather-app-react-dd6575.netlify.app/",
+
+  },
+  {
+    id: 2,
     title: "NewsMag",
     date: "Apr 2023",
     description:
@@ -215,7 +227,7 @@ export const projects = [
     github: "https://github.com/Devaraj-05/NewsMag",
   },
   {
-    id: 2,
+    id: 3,
     title: "Online Auction System",
     date: "Mar 2023 - May 2023",
     description:
@@ -232,7 +244,7 @@ export const projects = [
     github: "https://github.com/Devaraj-05/Online-Auction-System",
   },
   {
-    id: 3,
+    id: 4,
     title: "Tic-Tac-Toe",
     date: "May 2024",
     description:
