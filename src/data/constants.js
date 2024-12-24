@@ -209,7 +209,7 @@ export const projects = [
     description:
       "TheUdyog is a user-friendly job portal designed to bridge the gap between job seekers and employers. This platform simplifies the hiring process by providing a seamless interface for users to discover, apply for, and post job opportunities.",
     image:
-      "https://raw.githubusercontent.com/Devaraj-05/The-Udyog/refs/heads/master/public/HomePage.png?token=GHSAT0AAAAAAC4GS5RV6OHDZUTH4TWZQMKMZ3K5BHA",
+      "https://raw.githubusercontent.com/Devaraj-05/Portfolio/refs/heads/main/public/HomePage.png",
     tags: [
       "Tailwind CSS",
       "TypeScript",
