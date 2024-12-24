@@ -9,7 +9,7 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Devaraj-05",
-  resume: "https://drive.google.com/file/d/1A8fMgMdwLN0mj0a2NjKzB4ArDKN1PmO3/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1MeWteVJbf3yxKbkT6nB1akr-uwZ7NXSg/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/devaraj-padma-b3486b23b/",
   twitter: "https://x.com/_devaraj7_",
   insta: "https://www.instagram.com/_devaraj5_/",
@@ -150,7 +150,7 @@ export const experiences = [
       "Super Badge - Process Automation Specialist",
       "Super Badge - Developer Super Set",
     ],
-    doc: "https://smartinternz.com/internships/salesforce_certificates/6f097e848d3e349ddf8763d4aaa943df",
+    doc: "https://raw.githubusercontent.com/Devaraj-05/Portfolio/refs/heads/main/public/Salesforce.png",
   },  
 ];
 
@@ -187,47 +187,6 @@ export const education = [
 export const projects = [
   {
     id: 0,
-    title: "To-Do List",
-    date: "May 2024",
-    description:
-      "A simple To-Do List application built with plain JavaScript, HTML, and CSS. This application allows you to add, update, complete, and delete tasks, with tasks being saved in the browser's local storage to persist across page refreshes.",
-    image:
-      "https://raw.githubusercontent.com/Devaraj-05/To-Do-List/main/120720.png",
-    tags: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-    ],
-    category: "web app",
-    github: "https://github.com/Devaraj-05/To-Do-List",
-    webapp: "https://to-do-list-sparkly-swan-8c5da8.netlify.app/",
-  },
-  {
-    id: 1,
-    title: "Weather App",
-    date: "Oct 2024",
-    description:"The Weather Application is a React-based web app that delivers real-time weather data for any location. Users can search for a city to view current conditions, including temperature, humidity, and wind speed. With a responsive design and powered by the OpenWeather API.",
-    image:"https://raw.githubusercontent.com/Devaraj-05/weather-app-react/refs/heads/main/src/assets/Weather%20Report.png",
-    tags:["React.js","JavaScript","HTML","CSS"],
-    category: "web app",
-    github: "https://github.com/Devaraj-05/weather-app-react",
-    webapp: "https://weather-app-react-dd6575.netlify.app/",
-
-  },
-  {
-    id: 2,
-    title: "NewsMag",
-    date: "Apr 2023",
-    description:
-      "The News Application is a dynamic, user-friendly platform designed to provide users with up-to-date news from various sources. Users can browse through different news categories, read detailed articles, and stay informed about current events, this application ensures a seamless and interactive experience.",
-    image:
-      "https://raw.githubusercontent.com/Devaraj-05/NewsMag/main/src/assets/NewsMag.png",
-    tags: ["React Js", "HTML", "CSS","JavaScript"],
-    category: "web app",
-    github: "https://github.com/Devaraj-05/NewsMag",
-  },
-  {
-    id: 3,
     title: "Online Auction System",
     date: "Mar 2023 - May 2023",
     description:
@@ -244,9 +203,50 @@ export const projects = [
     github: "https://github.com/Devaraj-05/Online-Auction-System",
   },
   {
+    id: 1,
+    title: "Job Portal",
+    date: "Dec 2023",
+    description:
+      "TheUdyog is a user-friendly job portal designed to bridge the gap between job seekers and employers. This platform simplifies the hiring process by providing a seamless interface for users to discover, apply for, and post job opportunities.",
+    image:
+      "https://raw.githubusercontent.com/Devaraj-05/The-Udyog/refs/heads/master/public/HomePage.png?token=GHSAT0AAAAAAC4GS5RV6OHDZUTH4TWZQMKMZ3K5BHA",
+    tags: [
+      "Tailwind CSS",
+      "TypeScript",
+      "Next.js",
+    ],
+    category: "web app",
+    github: "https://github.com/Devaraj-05/The-Udyog",
+    webapp: "https://the-udyog-test.vercel.app/",
+  },
+  {
+    id: 2,
+    title: "Weather App",
+    date: "Oct 2023",
+    description:"The Weather Application is a React-based web app that delivers real-time weather data for any location. Users can search for a city to view current conditions, including temperature, humidity, and wind speed. With a responsive design and powered by the OpenWeather API.",
+    image:"https://raw.githubusercontent.com/Devaraj-05/weather-app-react/refs/heads/main/src/assets/Weather%20Report.png",
+    tags:["React.js","JavaScript","HTML","CSS"],
+    category: "web app",
+    github: "https://github.com/Devaraj-05/weather-app-react",
+    webapp: "https://weather-app-react-dd6575.netlify.app/",
+
+  },
+  {
+    id: 3,
+    title: "NewsMag",
+    date: "Apr 2023",
+    description:
+      "The News Application is a dynamic, user-friendly platform designed to provide users with up-to-date news from various sources. Users can browse through different news categories, read detailed articles, and stay informed about current events, this application ensures a seamless and interactive experience.",
+    image:
+      "https://raw.githubusercontent.com/Devaraj-05/NewsMag/main/src/assets/NewsMag.png",
+    tags: ["React Js", "HTML", "CSS","JavaScript"],
+    category: "web app",
+    github: "https://github.com/Devaraj-05/NewsMag",
+  },
+  {
     id: 4,
     title: "Tic-Tac-Toe",
-    date: "May 2024",
+    date: "May 2023",
     description:
       "Tic Tac Toe is a classic two-player strategy game where players take turns marking Xs and Os on a 3x3 grid, aiming to align three symbols in a row, column, or diagonal. The first to do so wins, if no one succeeds, it’s a draw.",
     image:
@@ -260,5 +260,22 @@ export const projects = [
     category: "web app",
     github: "https://github.com/Devaraj-05/tic-tac-toe",
     webapp: "https://tic-tac-toe-unicorn.netlify.app/", 
+  },
+  {
+    id: 5,
+    title: "To-Do List",
+    date: "Feb 2023",
+    description:
+      "A simple To-Do List application built with plain JavaScript, HTML, and CSS. This application allows you to add, update, complete, and delete tasks, with tasks being saved in the browser's local storage to persist across page refreshes.",
+    image:
+      "https://raw.githubusercontent.com/Devaraj-05/To-Do-List/main/120720.png",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+    ],
+    category: "web app",
+    github: "https://github.com/Devaraj-05/To-Do-List",
+    webapp: "https://to-do-list-sparkly-swan-8c5da8.netlify.app/",
   },
 ];
