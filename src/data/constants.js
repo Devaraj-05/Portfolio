@@ -188,7 +188,7 @@ export const projects = [
   {
     id: 0,
     title: "Online Auction System",
-    date: "Mar 2023 - May 2023",
+    date: "Jan 2023 - Mar 2023",
     description:
       "The online auction system is a web-based platform that facilitates the buying and selling of goods and services through an auction format. The system allows users to create accounts and profiles, browse through available items, and place bids on items of interest. Participants can monitor the bidding process in real-time and adjust their bids accordingly.",
     image:
@@ -234,7 +234,7 @@ export const projects = [
   {
     id: 3,
     title: "NewsMag",
-    date: "Apr 2023",
+    date: "Sep 2023",
     description:
       "The News Application is a dynamic, user-friendly platform designed to provide users with up-to-date news from various sources. Users can browse through different news categories, read detailed articles, and stay informed about current events, this application ensures a seamless and interactive experience.",
     image:
@@ -245,6 +245,23 @@ export const projects = [
   },
   {
     id: 4,
+    title: "CodeEditor",
+    date: "July 2023",
+    description:
+      "The CodeEditor Web Application is an interactive platform designed for developers to experiment with and test web technologies seamlessly. It features an integrated environment for writing and executing code in HTML, CSS, and JavaScript. The application allows users to view real-time outputs of their code, making it a valuable tool for learners, developers, and designers.",
+    image:
+      "https://raw.githubusercontent.com/Devaraj-05/codeditor/refs/heads/main/app/codeditor-img.png",
+    tags: [
+      "Next.js",
+      "TypeScript",
+      "TailwindCSS",
+    ],
+    category: "web app",
+    github: "https://github.com/Devaraj-05/codeditor",
+    webapp: "https://codeditor-368044.netlify.app/", 
+  },
+  {
+    id: 5,
     title: "Tic-Tac-Toe",
     date: "May 2023",
     description:
@@ -262,7 +279,7 @@ export const projects = [
     webapp: "https://tic-tac-toe-unicorn.netlify.app/", 
   },
   {
-    id: 5,
+    id: 6,
     title: "To-Do List",
     date: "Feb 2023",
     description:
